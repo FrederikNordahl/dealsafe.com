@@ -1,8 +1,4 @@
-import type { Metadata } from 'next'
-
-export const metadata: Metadata = {
-  title: 'Privacy Policy - DealSafe',
-}
+'use client'
 
 export default function PrivacyPolicy() {
   return (
