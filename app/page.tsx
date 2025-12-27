@@ -86,7 +86,7 @@ export default function Home() {
 
         {/* App Store Button */}
         <a
-          href="https://apps.apple.com/app/dealsafe"
+          href="https://apps.apple.com/dk/app/deal-safe/id6755067808"
           target="_blank"
           rel="noopener noreferrer"
           style={{
